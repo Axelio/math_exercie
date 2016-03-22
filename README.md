@@ -1,2 +1,2 @@
-# math_exercie
+# math_exercise
 Evaluación de expresión matemática
